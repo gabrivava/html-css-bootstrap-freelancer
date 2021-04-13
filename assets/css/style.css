@@ -8,3 +8,26 @@
 .bg_verde {
     background-color: #1ABC9C;
 }
+
+/* bedug height*/
+#site_header {
+    height: 90px;
+}
+.start {
+    height: 590px;
+}
+.portfolio {
+    height: 610px;
+}
+.about {
+    height: 300px;
+}
+.contact {
+    height: 500px;
+}
+.top_footer {
+    height: 200px;
+}
+.bottom_footer {
+    height: 100px;
+}
