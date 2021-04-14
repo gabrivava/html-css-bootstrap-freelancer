@@ -58,3 +58,6 @@ img {
     height: 45px;
     width: 45px;
 }
+.form-control::-webkit-input-placeholder {
+    color: #2C3E50;
+  }
