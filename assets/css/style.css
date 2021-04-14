@@ -31,9 +31,9 @@
 /* .top_footer {
     height: 200px;
 } */
-.bottom_footer {
+/* .bottom_footer {
     height: 100px;
-}
+} */
 
 /* css */
 .fa-star {
@@ -57,5 +57,4 @@ img {
 .top_footer .row > .bordi_loghi {
     height: 45px;
     width: 45px;
-
 }
