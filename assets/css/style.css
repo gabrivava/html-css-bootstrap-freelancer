@@ -8,6 +8,9 @@
 .bg_verde {
     background-color: #1ABC9C;
 }
+.text_verde {
+    color: #1ABC9C;
+}
 
 /* utility */
 
@@ -25,9 +28,9 @@
 /* .contact {
     height: 500px;
 } */
-.top_footer {
+/* .top_footer {
     height: 200px;
-}
+} */
 .bottom_footer {
     height: 100px;
 }
@@ -49,4 +52,10 @@ img {
     border-right: 0;
     border-left: 0;
     border-radius: 0%;
+}
+
+.top_footer .row > .bordi_loghi {
+    height: 45px;
+    width: 45px;
+
 }
