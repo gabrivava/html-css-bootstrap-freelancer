@@ -12,12 +12,10 @@
 /* utility */
 
 /* bedug height*/
-/* #site_header {
-    height: 90px;
-} */
-.start {
+
+/* .start {
     height: 590px;
-}
+} */
 .portfolio {
     height: 610px;
 }
@@ -35,3 +33,13 @@
 }
 
 /* css */
+.fa-star {
+    font-size: 2rem;
+}
+.linea {
+    height: 3px;
+    border-radius: 2px;
+}
+img {
+    height: 200px;
+}
