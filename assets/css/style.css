@@ -9,10 +9,12 @@
     background-color: #1ABC9C;
 }
 
+/* utility */
+
 /* bedug height*/
-#site_header {
+/* #site_header {
     height: 90px;
-}
+} */
 .start {
     height: 590px;
 }
@@ -31,3 +33,5 @@
 .bottom_footer {
     height: 100px;
 }
+
+/* css */
